@@ -2,7 +2,7 @@
 	"ADS": {
 		 "rewarde_type": "admob",
 		"native_type": "yandex",
-		"inter_type": "yandex",
+		"inter_type": "unity",
 		
 		"banner_type": "yandex",
 		"app_package_name": "admob",

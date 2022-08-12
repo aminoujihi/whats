@@ -4,7 +4,7 @@
 		"native_type": "admob",
 		"inter_type": "yandex",
 		
-		"banner_type": "admob",
+		"banner_type": "unity",
 		"app_package_name": "admob",
 		 "inter_or_rewarde":"inter",
 

@@ -2,7 +2,7 @@
 	"ADS": {
 		 "rewarde_type": "admob",
 		"native_type": "yandex",
-		"inter_type": "ironsource",
+		"inter_type": "applovin",
 		
 		"banner_type": "yandex",
 		"app_package_name": "admob",

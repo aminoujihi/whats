@@ -1,11 +1,11 @@
 {
 	"ADS": {
-		 "rewarde_type": "admob",
+		 "rewarde_type": "ironsource",
 		"native_type": "admob",
-		"inter_type": "yandex",
+		"inter_type": "ironsource",
 		
-		"banner_type": "unity",
-		"app_package_name": "admob",
+		"banner_type": "ironsource",
+		"app_package_name": "com.outfit7.mytalkingtomfriends",
 		 "inter_or_rewarde":"inter",
 
 		"unity_id": "4292105",

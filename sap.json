@@ -5,7 +5,7 @@
 		"inter_type": "yandex",
 		
 		"banner_type": "yandex",
-		"app_package_name": "com.whats.oujihi",
+		"app_package_name": "com.kiloo.subwaysurf",
 		 "inter_or_rewarde":"inter",
 
 		"unity_id": "4292105",
@@ -13,7 +13,7 @@
  
 		"ironsource_id": "160c9b995",
 
-		"interstitial_yandex": "",
+		"interstitial_yandex": "R-M-1792465-2",
 		"banner_yandex": "R-M-1444497-1",
 		"native_yandex": "adf-279013/966533",
 		"rewarde_yandex": "adf-279013/966487",

@@ -2,13 +2,13 @@
 	"ADS": {
 		 "rewarde_type": "admob",
 		"native_type": "yandex",
-		"inter_type": "yandex",
+		"inter_type": "unity",
 		
 		"banner_type": "yandex",
 		"app_package_name": "com.ihi",
 		 "inter_or_rewarde":"inter",
 
-		"unity_id": "4292105",
+		"unity_id": "3642932",
 
  
 		"ironsource_id": "160c9b995",

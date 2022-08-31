@@ -1,10 +1,10 @@
 {
 	"ADS": {
 		 "rewarde_type": "admob",
-		"native_type": "yandex",
-		"inter_type": "yandex",
+		"native_type": "admob",
+		"inter_type": "admob",
 		
-		"banner_type": "yandex",
+		"banner_type": "admob",
 		"app_package_name": "com.whats.oujihi",
 		 "inter_or_rewarde":"inter",
 

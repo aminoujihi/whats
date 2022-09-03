@@ -1,10 +1,10 @@
 {
 	"ADS": {
-		 "rewarde_type": "1b",
-		"native_type": "1b",
-		"inter_type": "a1b",
+		 "rewarde_type": "yandex",
+		"native_type": "yandex",
+		"inter_type": "yandex",
 		
-		"banner_type": "a1b",
+		"banner_type": "yandex",
 		"app_package_name": "com.whats.oujihi",
 		 "inter_or_rewarde":"inter",
 
@@ -13,9 +13,9 @@
  
 		"ironsource_id": "160c9b995",
 
-		"interstitial_yandex": "R-M-1792465-2",
-		"banner_yandex": "R-M-1792465-1",
-		"native_yandex": "R-M-1792465-3",
+		"interstitial_yandex": "R-M-1834889-3",
+		"banner_yandex": "R-M-1834889-1",
+		"native_yandex": "R-M-1834889-2",
 		"rewarde_yandex": "adf-279013/966487",
 
 		"banner_applovin": "adf-279013/966533",

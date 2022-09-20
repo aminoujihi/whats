@@ -1,8 +1,8 @@
 {
 	"ADS": {
-		 "rewarde_type": "admob",
+		 "rewarde_type": "yandex",
 		"native_type": "admob",
-		"inter_type": "admob",
+		"inter_type": "yandex",
 		
 		"banner_type": "admob",
 		"app_package_name": "net.whats.aminos",
@@ -24,8 +24,8 @@
 		"rewarde_applovin": "adf-279013/966487",
 
 		"interstitial_admob": "ca-app-pub-394044/1033173712",
-		"banner_admob": "ca-app-pub-3940256099942544/6300978111",
-		"native_admob": "ca-app-pub-3940256099942544/2247696110",
+		"banner_admob": "ca-app-pub-4369015031881584/2510291575",
+		"native_admob": "ca-app-pub-4369015031881584/2774240792",
 		"rewarde_admob": "ca-app-pub-3940256099942544/5354046379",
 
 		"interstitial_admob1": "ca-app-pub-3940256099942544/1033173712",

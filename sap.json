@@ -1,10 +1,10 @@
 {
 	"ADS": {
 		 "rewarde_type": "admob",
-		"native_type": "yandex",
-		"inter_type": "yandex",
+		"native_type": "admob",
+		"inter_type": "admob",
 		
-		"banner_type": "yandex",
+		"banner_type": "admob",
 		"app_package_name": "net.whats.aminos",
 		 "inter_or_rewarde":"inter",
 
@@ -30,11 +30,11 @@
 
 		"interstitial_admob1": "ca-app-p2",
 		"native_admob1": "ca-app-pub-567",
-		"rewarde_admob1": "ca-app-pub-3940256099942544/5354046379",
+		"rewarde_admob1": "ca-app-pub-3940544/5354046379",
 
-		"interstitial_admob2": "ca-app-pub-3940256099942544/1033173712",
+		"interstitial_admob2": "6099942544/1033173712",
 		"native_admob2": "ca-app-pub-567",
-		"rewarde_admob2": "ca-app-pub-3940256099942544/5354046379",
+		"rewarde_admob2": "ca-app-pub099942544/5354046379",
 
 		
 		"facebook_interstitial": "VID_HD_9_16_39S_LINK#4677578285627060_4677588762292679",

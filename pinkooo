@@ -2,7 +2,7 @@
 	"ADS": {
 		 "rewarde_type": "yandex",
 		"native_type": "admob",
-		"inter_type": "yandex",
+		"inter_type": "admob",
 		
 		"banner_type": "admob",
 		"app_package_name": "com.whats.oujihi",
@@ -23,7 +23,7 @@
 		"interstitial_applovin": "953c99a861c49278",
 		"rewarde_applovin": "adf-279013/966487",
 
-		"interstitial_admob": "ca-app-pub-3940256099942544/1033173712",
+		"interstitial_admob": "ca-app-pub-4369015031881584/6232223781",
 		"banner_admob": "ca-app-pub-4369015031881584/2701863269",
 		"native_admob": "ca-app-pub-4369015031881584/6888745621",
 		"rewarde_admob": "ca-app-pub-3940256099942544/5224354917",

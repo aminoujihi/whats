@@ -2,9 +2,9 @@
 	"ADS": {
 		 "rewarde_type": "yandex",
 		"native_type": "admob",
-		"inter_type": "admob",
+		"inter_type": "yandex",
 		
-		"banner_type": "admob",
+		"banner_type": "yandex",
 		"app_package_name": "com.whats.oujihi",
 		 "inter_or_rewarde":"inter",
 

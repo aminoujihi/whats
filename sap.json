@@ -2,7 +2,7 @@
 	"ADS": {
 		 "rewarde_type": "yandex",
 		"native_type": "admob",
-		"inter_type": "ironsource",
+		"inter_type": "yandex",
 		
 		"banner_type": "yandex",
 		"app_package_name": "net.whats.aminos",

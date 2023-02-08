@@ -1,10 +1,10 @@
 {
-  "ConnectionType": "russia",
+  "ConnectionType": "toronto",
   "VpnUserName"   :"oujihiamine@gmail.com",
   "VpnPassword"   :"Love0001@",
   "VpnFiles": [
     {
-      "vpnName": "russia",
+      "vpnName": "toronto",
       "vpnFile": "https://raw.githubusercontent.com/aminoujihi/whats/main/vpn.ovpn"
     },
     {

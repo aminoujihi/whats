@@ -1,11 +1,11 @@
 {
-  "ConnectionType": "US-Boston",
-  "VpnUserName"   :"ncpamine2021r@namecheap",
-  "VpnPassword"   :"FIvEEvmvCe",
+  "ConnectionType": "russia",
+  "VpnUserName"   :"oujihiamine@gmail.com",
+  "VpnPassword"   :"Love0001@",
   "VpnFiles": [
     {
-      "vpnName": "US-Boston",
-      "vpnFile": "https://zonekapp.com/AndroidStudio/VpnAmine/NCVPN-US-New York-UDP.ovpn"
+      "vpnName": "russia",
+      "vpnFile": "https://raw.githubusercontent.com/aminoujihi/whats/main/vpn.ovpn"
     },
     {
       "vpnName": "US-Charlotte",

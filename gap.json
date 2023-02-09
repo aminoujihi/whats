@@ -1,5 +1,5 @@
 {
-  "ConnectionType": "random",
+  "ConnectionType": "NCVPN-KR-Seoul-UDP",
   "VpnUserName"   :"ncpaminosoujihi@namecheap",
   "VpnPassword"   :"phfZwaxzFM",
   "VpnFiles": [

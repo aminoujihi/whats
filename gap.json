@@ -62,6 +62,54 @@
     {
       "vpnName": "AU-Brisbane",
       "vpnFile": "https://raw.githubusercontent.com/aminoujihi/whats/main/AU-Brisbane.ovpn"
+    },
+    {
+      "vpnName": "NCVPN-US-Miami",
+      "vpnFile": "https://raw.githubusercontent.com/aminoujihi/whats/main/NCVPN-US-Miami-UDP.ovpn"
+    },
+    {
+      "vpnName": "NCVPN-US-LosAngeles-UDP",
+      "vpnFile": "https://raw.githubusercontent.com/aminoujihi/whats/main/NCVPN-US-LosAngeles-UDP.ovpn"
+    },
+    {
+      "vpnName": "NCVPN-US-Chicago-UDP",
+      "vpnFile": "https://raw.githubusercontent.com/aminoujihi/whats/main/NCVPN-US-Chicago-UDP.ovpn"
+    },
+    {
+      "vpnName": "NCVPN-UK-London-UDP",
+      "vpnFile": "https://raw.githubusercontent.com/aminoujihi/whats/main/NCVPN-UK-London-UDP.ovpn"
+    },
+    {
+      "vpnName": "NCVPN-UK-Glasgow-UDP",
+      "vpnFile": "https://raw.githubusercontent.com/aminoujihi/whats/main/NCVPN-UK-Glasgow-UDP.ovpn"
+    },
+    {
+      "vpnName": "NCVPN-UK-Birmingham-UDP",
+      "vpnFile": "https://raw.githubusercontent.com/aminoujihi/whats/main/NCVPN-UK-Birmingham-UDP.ovpn"
+    },
+    {
+      "vpnName": "CA-Montreal",
+      "vpnFile": "https://raw.githubusercontent.com/aminoujihi/whats/main/CA-Montreal.ovpn"
+    },
+    {
+      "vpnName": "AU-Sydney",
+      "vpnFile": "https://raw.githubusercontent.com/aminoujihi/whats/main/AU-Sydney.ovpn"
+    },
+    {
+      "vpnName": "AU-Perth",
+      "vpnFile": "https://raw.githubusercontent.com/aminoujihi/whats/main/AU-Perth.ovpn"
+    },
+    {
+      "vpnName": "AU-Melbourn",
+      "vpnFile": "https://raw.githubusercontent.com/aminoujihi/whats/main/AU-Melbourn.ovpn"
+    },
+    {
+      "vpnName": "NCVPN-TR-Istanbul-UDP",
+      "vpnFile": "https://raw.githubusercontent.com/aminoujihi/whats/main/NCVPN-TR-Istanbul-UDP.ovpn"
+    },
+    {
+      "vpnName": "NCVPN-KR-Seoul-UDP",
+      "vpnFile": "https://raw.githubusercontent.com/aminoujihi/whats/main/NCVPN-KR-Seoul-UDP.ovpn"
     }
   ]
 }

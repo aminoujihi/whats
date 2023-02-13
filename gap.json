@@ -16,14 +16,6 @@
       "vpnFile": "https://raw.githubusercontent.com/aminoujihi/whats/main/NCVPN-UK-Manchester-UDP.ovpn"
     },
     {
-      "vpnName": "NCVPN-SG-Singapore-UDP",
-      "vpnFile": "https://raw.githubusercontent.com/aminoujihi/whats/main/NCVPN-SG-Singapore-UDP.ovpn"
-    },
-    {
-      "vpnName": "HK-Hong-Kong",
-      "vpnFile": "https://raw.githubusercontent.com/aminoujihi/whats/main/HK-Hong-Kong.ovpn"
-    },
-    {
       "vpnName": "FI-Helsinki",
       "vpnFile": "https://raw.githubusercontent.com/aminoujihi/whats/main/FI-Helsinki.ovpn"
     },
@@ -102,10 +94,6 @@
     {
       "vpnName": "AU-Melbourn",
       "vpnFile": "https://raw.githubusercontent.com/aminoujihi/whats/main/AU-Melbourn.ovpn"
-    },
-    {
-      "vpnName": "NCVPN-TR-Istanbul-UDP",
-      "vpnFile": "https://raw.githubusercontent.com/aminoujihi/whats/main/NCVPN-TR-Istanbul-UDP.ovpn"
     },
     {
       "vpnName": "NCVPN-KR-Seoul-UDP",
